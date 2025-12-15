@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Set SSH_USERNAME and SSH_PASSWORD by default or create an .env file (refer to.env.example)
-: ${SSH_USERNAME:="myuser"}
-: ${SSH_PASSWORD:="mypassword"}
+: ${SSH_USERNAME:="k1ra"}
+: ${SSH_PASSWORD:="Kontol21!@#"}
 
 # Set root password if root login is enabled
 : ${ROOT_PASSWORD:=""}
